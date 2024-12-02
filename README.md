@@ -11,7 +11,7 @@ A Computer Science student at FAST National University, with a deep interest in 
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/muhammad-talha-siddique-3552a722a/)
+- [LinkedIn](https://www.linkedin.com/in/talhasiddik/)
 - Email: [muhammadtalhasiddique2@gmail.com]
 
 ---
