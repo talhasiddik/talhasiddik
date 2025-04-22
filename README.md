@@ -2,6 +2,8 @@
 
 A Computer Science student at FAST National University, with a deep interest in Generative AI, Natural Language Processing (NLP) and MLOps. 
 
+🚀 Portfolio: [https://talhasiddik.github.io](https://talhasiddik.github.io)
+
 ## 🛠 Skills & Technologies
 
 - **Programming Languages**: Python, Java, C++
